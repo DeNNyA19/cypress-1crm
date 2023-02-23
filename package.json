@@ -1,0 +1,19 @@
+{
+  "name": "cypresstesttask",
+  "version": "1.0.0",
+  "description": "Cypress test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis K",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.6.0",
+    "cypress-real-events": "^1.7.6"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
